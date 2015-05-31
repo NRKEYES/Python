@@ -1,0 +1,3 @@
+class walker:
+	x
+	y
